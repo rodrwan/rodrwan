@@ -4,7 +4,7 @@ I'm a Software Engineer from Chile.
 
 - [Twitter](https://twitter.com/rodrwan) :bird:
 - [Web](https://rodfuenzalida.com/) :earth_americas:
-- [Youtube](https://www.youtube.com/channel/UCMR7B2OshkTgz4aUfw7FYEQ) :sound: :dance:
+- [Youtube](https://www.youtube.com/channel/UCMR7B2OshkTgz4aUfw7FYEQ) :sound: :dancer:
 - [Medium](https://medium.com/@rodrwan) 👨🏽‍💻
 
 
