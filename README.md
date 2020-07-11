@@ -1,4 +1,4 @@
-**Hey, I'm Rod! :wave: :computer: **
+**Hey, I'm Rod! :wave: :computer:**
 
 I'm a Software Engineer from Chile. 
 
