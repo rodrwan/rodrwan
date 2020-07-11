@@ -1,7 +1,8 @@
 **Hey, I'm Rod! :wave: :computer:**
 
-I'm a Software Engineer from Chile. 
-Love to programming in Golang, Microservices enthusiastic. Writer of technology articles. And sometimes DJ. 
+I'm a Software Engineer from Chile.  
+Love to programming in Golang, Microservices enthusiastic.  
+Writer of technology articles, sometimes DJ :cd: 
 
 I enjoy to learn about technology.
 
