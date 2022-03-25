@@ -8,3 +8,5 @@ I enjoy to learn about technology.
 - [Medium](https://medium.com/@rodrwan) 👨🏽‍💻
 
 ![Gopher](https://avatars0.githubusercontent.com/u/45862253?s=200&v=4)
+
+![Visits](https://gpvc.arturio.dev/rodrwan)
