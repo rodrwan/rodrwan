@@ -1,6 +1,6 @@
 <img src="https://github.com/rodrwan/rodrwan/raw/master/golang.png?sanitize=true" align="center" >
 
-I enjoy to learn about technology.
+I enjoy learning new technology.
 
 - [Twitter](https://twitter.com/rodrwan) :bird:
 - [Web](https://roddotcom.dev/) :earth_americas:
